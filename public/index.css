@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+nav {
+    background-color: #da7f8f !important; 
+}
+
+body {
+    background-color: #faf3f3;
+}
+
+h1 {
+    font-family: 'DM Serif Display', serif;
+    color: #564a4a;
+    position: relative;
+}
+
+.btn-color {
+    background-color: #da7f8f !important;
+}
+.pic {
+    padding: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .description {
+        font-size: 2.5rem;
+    }
+  }
+
+
+
